@@ -1,4 +1,4 @@
-# CUDA Advanced Project with Tests & Plots
+# Quantum Based Cuda Kernel
 
 This project demonstrates advanced CUDA kernels for deep learning workloads and provides:
 
